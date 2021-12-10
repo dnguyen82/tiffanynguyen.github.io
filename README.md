@@ -31,3 +31,6 @@ We'll look at the variables in our dataset to see what we can learn from them. T
 analysis will assist us in comprehending how the variables interact and how representative they
 are. Finally, it will help us formulate hypotheses to achieve the project's purpose and consider
 future work.
+
+![](https://github.com/dnguyen82/tiffanynguyen.github.io/blob/main/images/Histogram.png)
+![](https://github.com/dnguyen82/tiffanynguyen.github.io/blob/main/images/Acceptance%20Vs%20Enrollment%20Rates.png)
