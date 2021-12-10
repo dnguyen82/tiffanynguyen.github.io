@@ -22,3 +22,8 @@ Using the read commands in Python, I could better understand the file's data. Th
 primary step in the analysis. I could understand the data in the file better. This is the primary step in the
 study.
 
+#Visualization and exploratory data analysis (EDA):
+We'll look at the variables in our dataset to see what we can learn from them. This exploratory
+analysis will assist us in comprehending how the variables interact and how representative they
+are. Finally, it will help us formulate hypotheses to achieve the project's purpose and consider
+future work.
