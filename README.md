@@ -14,6 +14,8 @@ The goal of this project was to find out which are the most relevant features th
 4. Does public or private university matter?
 5. Is the low cost of living on campus a factor that attracts students to a university?
 
+![](https://github.com/dnguyen82/tiffanynguyen.github.io/blob/main/images/Q1.png)
+
 #Downloading the dataset:
 I used the Kaggle dataset during the project analysis. First, I downloaded the data in a CSV
 file to the local system. It includes a wealth of information about American universities in 2018
