@@ -5,6 +5,8 @@ Porfolio
 
 The goal of this project was to find out which are the most relevant features that students consider choosing their favorite university, besides a high-academic ranking. Some of the essential questions for developing this project are the number of applications, admissions, enrollments, tuition and fees, cost of living on campus, types of degrees offered, and features of the states where universities are located (population and GDP). Students go through the dreaded application and decide which university to attend every year. We can relate to the project. Our own experiences have inspired us to take this project.
 
+![](https://github.com/dnguyen82/tiffanynguyen.github.io/blob/main/images/Top%2020.png)
+
 #Analysis Questions:
 1. If the ranking of a university has primary importance?
 2. If universities with the most applications are preferred?
