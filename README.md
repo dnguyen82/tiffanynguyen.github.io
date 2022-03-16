@@ -1,6 +1,6 @@
 # tiffanynguyen.github.io
 
-![](astrobee.png)
+![](https://github.com/dnguyen82/tiffanynguyen.github.io/blob/main/images/astrobee.png)
 
 #Project : MOTIVATION ANALYSIS OF PARTICIPANTS IN CROWDSOURCING NASA CHALLENGES
 
