@@ -1,12 +1,12 @@
 #tiffanynguyen.github.io
 
-#Project: MOTIVATION ANALYSIS OF PARTICIPANTS IN CROWDSOURCING NASA CHALLENGES 
+Project: MOTIVATION ANALYSIS OF PARTICIPANTS IN CROWDSOURCING NASA CHALLENGES 
 
 ![image](https://user-images.githubusercontent.com/80006583/158820290-82866562-589b-4239-a1eb-bb0200fad1ba.png)
 
 
 
-![image](https://user-images.githubusercontent.com/80006583/158819878-3706cfd9-72f5-473d-bf94-49df52ab8205.png)
+
 
 
 Abstract—The purpose of the study focused on determining types of participants’ motivation in crowdsourcing challenges and the relationship between intrinsic vs. extrinsic motivation within the level of participants’ engagement. Astrobee Challenge Series dataset from NASA contains challenge names, years of experiences, participants’ backgrounds, and a text field that supported research to analyze the reason for participating and extract differences in motivations. To conclude whether years of experience indicate the type of motivation and motivation indicate the level of participation of solvers, this group project did some analysis on text mining and research design to measure the data. More specifically, we use Quasi-experimental Design, Stratified Sampling, Term Frequency (TF-IDF), N-grams, Principal Component Analysis (PCA), and Generic Machine Learning Model (GML) in our pilot analysis. We found that years of experience in Design and Mechanical Engineering are significant explanatory variables determining intrinsic motivation. However, the limitation of making a concrete conclusion to this research paper is the lack of self-reported hour data; it became difficult to evaluate based on all the information we have in the cleaned dataset. As a result, the research paper had passed the basic process to enter the further complicated analysis in the future.
