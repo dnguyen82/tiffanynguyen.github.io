@@ -1,4 +1,4 @@
-# tiffanynguyen.github.io
+# TiffanyNG_NASAProject.github.io
 
 ![](https://github.com/dnguyen82/tiffanynguyen.github.io/blob/main/images/astrobee.png)
 
